@@ -53,7 +53,9 @@ The following task is advanced and therefore optional.
 
 Code for the HTML files and datafiles for this challenge assignment can be found in the starter_code folder under starterCode here: https://github.com/MaddyGutieruiz/belly-button-challenge/tree/main/starter_code/startercode
 
-!"Bellybutton_Challenge"[https://github.com/MaddyGutieruiz/belly-button-challenge/blob/main/Bellybutton_Challenge.png]!
+Below shows a screenshot of the HTML Live Server from this challenge HTML file found here: 
+
+![Bellybutton_Challenge](https://github.com/MaddyGutieruiz/belly-button-challenge/blob/main/Bellybutton_Challenge.png)
 
 ## References
 - Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
