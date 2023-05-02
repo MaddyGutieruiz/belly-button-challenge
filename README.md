@@ -53,7 +53,7 @@ The following task is advanced and therefore optional.
 
 Code for the HTML files and datafiles for this challenge assignment can be found in the starter_code folder under starterCode here: https://github.com/MaddyGutieruiz/belly-button-challenge/tree/main/starter_code/startercode
 
-Below shows a screenshot of the HTML Live Server from this challenge HTML file found here: 
+Below shows a screenshot of the HTML Live Server from this challenge HTML file found here: https://github.com/MaddyGutieruiz/belly-button-challenge/blob/main/starter_code/startercode/index.html
 
 ![Bellybutton_Challenge](https://github.com/MaddyGutieruiz/belly-button-challenge/blob/main/Bellybutton_Challenge.png)
 
